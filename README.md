@@ -84,7 +84,7 @@ streamlit run spam.py
 
 ## 🙌 Kredit
 
-Dibuat oleh **Ranggis** ✨
+Dibuat oleh : Rizqi Wijaya
 
 > "Jangan biarkan pesan spam mengganggumu. Biarkan model yang menilai."
 
